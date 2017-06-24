@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CustomerDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="UserMaster">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+  </EntityType>
+  <EntityContainer Name="CustomerDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="UserMasters" EntityType="Self.UserMaster" />
+    <FunctionImport Name="usp_GetUserDetail" ReturnType="Collection(CustomerDBModel.usp_GetUserDetail_Result)">
+      <Parameter Name="UserId" Mode="In" Type="Int32" />
+    </FunctionImport>
+  </EntityContainer>
+  <ComplexType Name="usp_GetUserDetail_Result">
+    <Property Type="Int32" Name="Id" Nullable="false" />
+    <Property Type="String" Name="UserName" Nullable="true" MaxLength="50" />
+    <Property Type="String" Name="Password" Nullable="true" MaxLength="50" />
+  </ComplexType>
+</Schema>

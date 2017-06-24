@@ -1,0 +1,36 @@
+D:\ODataService\WebApiService\WebApiService\bin\WebApiService.dll.config
+D:\ODataService\WebApiService\WebApiService\bin\WebApiService.dll
+D:\ODataService\WebApiService\WebApiService\bin\WebApiService.pdb
+D:\ODataService\WebApiService\WebApiService\bin\EntityFramework.dll
+D:\ODataService\WebApiService\WebApiService\bin\EntityFramework.SqlServer.dll
+D:\ODataService\WebApiService\WebApiService\bin\Newtonsoft.Json.dll
+D:\ODataService\WebApiService\WebApiService\bin\System.Net.Http.Formatting.dll
+D:\ODataService\WebApiService\WebApiService\bin\System.Web.Http.dll
+D:\ODataService\WebApiService\WebApiService\bin\System.Web.Http.WebHost.dll
+D:\ODataService\WebApiService\WebApiService\bin\EntityFramework.xml
+D:\ODataService\WebApiService\WebApiService\bin\EntityFramework.SqlServer.xml
+D:\ODataService\WebApiService\WebApiService\bin\Newtonsoft.Json.xml
+D:\ODataService\WebApiService\WebApiService\bin\System.Net.Http.Formatting.xml
+D:\ODataService\WebApiService\WebApiService\bin\System.Web.Http.xml
+D:\ODataService\WebApiService\WebApiService\bin\System.Web.Http.WebHost.xml
+D:\ODataService\WebApiService\WebApiService\obj\Debug\WebApiService.csprojResolveAssemblyReference.cache
+D:\ODataService\WebApiService\WebApiService\obj\Debug\WebApiService.dll
+D:\ODataService\WebApiService\WebApiService\obj\Debug\WebApiService.pdb
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\WebApiService.dll.config
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\WebApiService.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\WebApiService.pdb
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\EntityFramework.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\EntityFramework.SqlServer.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\Newtonsoft.Json.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Net.Http.Formatting.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Web.Http.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Web.Http.WebHost.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\EntityFramework.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\EntityFramework.SqlServer.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\Newtonsoft.Json.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Net.Http.Formatting.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Web.Http.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\bin\System.Web.Http.WebHost.xml
+E:\New folder\WebApiService\WebApiService\WebApiService\obj\Debug\WebApiService.csprojResolveAssemblyReference.cache
+E:\New folder\WebApiService\WebApiService\WebApiService\obj\Debug\WebApiService.dll
+E:\New folder\WebApiService\WebApiService\WebApiService\obj\Debug\WebApiService.pdb
